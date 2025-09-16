@@ -1,0 +1,1 @@
+# solo_seguro_ESP32
